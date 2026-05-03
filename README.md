@@ -1,6 +1,9 @@
 <h1>🎫 e-Ticket - Sistema de Compra de Ingressos</h1>
 <img width="1860" height="1144" alt="Image" src="https://github.com/user-attachments/assets/59db9114-9553-4915-aff1-28572accdd21" />
-<h2>🖥 Projeto Concluido ✅ </h2> 
+<h2>🖥 Projeto Concluido ✅ </h2>
+
+## 🔗 Link do projeto
+➥ https://brendosukuna-dev.github.io/compra-de-ingresso-online/
 
 ## 📋 Sobre o projeto
 <p>O e-Ticket é uma aplicação web interativa que simula a compra de ingressos para eventos em diferentes setores (Pista, Cadeira Superior e Cadeira Inferior).
